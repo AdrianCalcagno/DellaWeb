@@ -1,0 +1,23 @@
+//Defino fuentes
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+//Defino variables
+
+//Colores
+
+$mainColor:#AB6550;
+$secondaryColor:#CC6666;
+$keyColor:#543227;
+
+// Mixin
+
+@mixin textoChistes($display,$fontsize,$color){
+display: $display;
+font-size: $fontsize;
+color: $color;
+}
+
+// maps
+
+$textSize:('small':1rem,'medium':2rem,'big':3rem);
