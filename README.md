@@ -1,4 +1,4 @@
-# FilmClub App
+# Della
 
 Este proyecto corresponde a un sitio web dedicado a mi emprendimiento freelance de Marketing Digital. 
 
